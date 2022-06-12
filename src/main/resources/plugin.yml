@@ -1,0 +1,8 @@
+name: BetterInfinity
+version: '${project.version}'
+main: betterinfinity.betterinfinity.BetterInfinity
+api-version: 1.18
+prefix: BetterInf
+authors: [ MelodyLux ]
+description: Allows infinity to work on crossbows and with potion arrows
+website: silverportreborn.com
